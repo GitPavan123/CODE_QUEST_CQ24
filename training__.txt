@@ -1,0 +1,545 @@
+Epoch 1/133
+Training time for epoch 1: 220.30 seconds	Remaining training time: 29079.70 seconds
+Accuracy: 0.6344
+
+Epoch 2/133
+Training time for epoch 2: 220.60 seconds	Remaining training time: 28898.80 seconds
+Accuracy: 0.5524
+
+Epoch 3/133
+Training time for epoch 3: 220.90 seconds	Remaining training time: 28717.29 seconds
+Accuracy: 0.9841
+
+Epoch 4/133
+Training time for epoch 4: 221.20 seconds	Remaining training time: 28535.19 seconds
+Accuracy: 0.7575
+
+Epoch 5/133
+Training time for epoch 5: 221.50 seconds	Remaining training time: 28352.48 seconds
+Accuracy: 0.6077
+
+Epoch 6/133
+Training time for epoch 6: 221.80 seconds	Remaining training time: 28169.17 seconds
+Accuracy: 0.6184
+
+Epoch 7/133
+Training time for epoch 7: 222.11 seconds	Remaining training time: 27985.26 seconds
+Accuracy: 0.7332
+
+Epoch 8/133
+Training time for epoch 8: 222.41 seconds	Remaining training time: 27800.75 seconds
+Accuracy: 0.9071
+
+Epoch 9/133
+Training time for epoch 9: 222.71 seconds	Remaining training time: 27615.64 seconds
+Accuracy: 0.5534
+
+Epoch 10/133
+Training time for epoch 10: 223.01 seconds	Remaining training time: 27429.92 seconds
+Accuracy: 0.7787
+Saving model...
+
+Epoch 11/133
+Training time for epoch 11: 223.31 seconds	Remaining training time: 27243.61 seconds
+Accuracy: 0.657
+
+Epoch 12/133
+Training time for epoch 12: 223.61 seconds	Remaining training time: 27056.69 seconds
+Accuracy: 0.9466
+
+Epoch 13/133
+Training time for epoch 13: 223.91 seconds	Remaining training time: 26869.17 seconds
+Accuracy: 0.9769
+
+Epoch 14/133
+Training time for epoch 14: 224.21 seconds	Remaining training time: 26681.05 seconds
+Accuracy: 0.5472
+
+Epoch 15/133
+Training time for epoch 15: 224.51 seconds	Remaining training time: 26492.33 seconds
+Accuracy: 0.7648
+
+Epoch 16/133
+Training time for epoch 16: 224.81 seconds	Remaining training time: 26303.01 seconds
+Accuracy: 0.9231
+
+Epoch 17/133
+Training time for epoch 17: 225.11 seconds	Remaining training time: 26113.08 seconds
+Accuracy: 0.9113
+
+Epoch 18/133
+Training time for epoch 18: 225.41 seconds	Remaining training time: 25922.56 seconds
+Accuracy: 0.5819
+
+Epoch 19/133
+Training time for epoch 19: 225.71 seconds	Remaining training time: 25731.43 seconds
+Accuracy: 0.9989
+
+Epoch 20/133
+Training time for epoch 20: 226.02 seconds	Remaining training time: 25539.70 seconds
+Accuracy: 0.7971
+Saving model...
+
+Epoch 21/133
+Training time for epoch 21: 226.32 seconds	Remaining training time: 25347.37 seconds
+Accuracy: 0.6649
+
+Epoch 22/133
+Training time for epoch 22: 226.62 seconds	Remaining training time: 25154.44 seconds
+Accuracy: 0.7521
+
+Epoch 23/133
+Training time for epoch 23: 226.92 seconds	Remaining training time: 24960.90 seconds
+Accuracy: 0.9312
+
+Epoch 24/133
+Training time for epoch 24: 227.22 seconds	Remaining training time: 24766.77 seconds
+Accuracy: 0.9901
+
+Epoch 25/133
+Training time for epoch 25: 227.52 seconds	Remaining training time: 24572.03 seconds
+Accuracy: 0.9436
+
+Epoch 26/133
+Training time for epoch 26: 227.82 seconds	Remaining training time: 24376.69 seconds
+Accuracy: 0.5052
+
+Epoch 27/133
+Training time for epoch 27: 228.12 seconds	Remaining training time: 24180.75 seconds
+Accuracy: 0.6321
+
+Epoch 28/133
+Training time for epoch 28: 228.42 seconds	Remaining training time: 23984.21 seconds
+Accuracy: 0.9318
+
+Epoch 29/133
+Training time for epoch 29: 228.72 seconds	Remaining training time: 23787.07 seconds
+Accuracy: 0.9708
+
+Epoch 30/133
+Training time for epoch 30: 229.02 seconds	Remaining training time: 23589.32 seconds
+Accuracy: 0.5343
+Saving model...
+
+Epoch 31/133
+Training time for epoch 31: 229.32 seconds	Remaining training time: 23390.98 seconds
+Accuracy: 0.8577
+
+Epoch 32/133
+Training time for epoch 32: 229.62 seconds	Remaining training time: 23192.03 seconds
+Accuracy: 0.8191
+
+Epoch 33/133
+Training time for epoch 33: 229.92 seconds	Remaining training time: 22992.48 seconds
+Accuracy: 0.8424
+
+Epoch 34/133
+Training time for epoch 34: 230.23 seconds	Remaining training time: 22792.33 seconds
+Accuracy: 0.9324
+
+Epoch 35/133
+Training time for epoch 35: 230.53 seconds	Remaining training time: 22591.58 seconds
+Accuracy: 0.5182
+
+Epoch 36/133
+Training time for epoch 36: 230.83 seconds	Remaining training time: 22390.23 seconds
+Accuracy: 0.9026
+
+Epoch 37/133
+Training time for epoch 37: 231.13 seconds	Remaining training time: 22188.27 seconds
+Accuracy: 0.9363
+
+Epoch 38/133
+Training time for epoch 38: 231.43 seconds	Remaining training time: 21985.71 seconds
+Accuracy: 0.5104
+
+Epoch 39/133
+Training time for epoch 39: 231.73 seconds	Remaining training time: 21782.56 seconds
+Accuracy: 0.719
+
+Epoch 40/133
+Training time for epoch 40: 232.03 seconds	Remaining training time: 21578.80 seconds
+Accuracy: 0.636
+Saving model...
+
+Epoch 41/133
+Training time for epoch 41: 232.33 seconds	Remaining training time: 21374.44 seconds
+Accuracy: 0.8667
+
+Epoch 42/133
+Training time for epoch 42: 232.63 seconds	Remaining training time: 21169.47 seconds
+Accuracy: 0.8893
+
+Epoch 43/133
+Training time for epoch 43: 232.93 seconds	Remaining training time: 20963.91 seconds
+Accuracy: 0.5107
+
+Epoch 44/133
+Training time for epoch 44: 233.23 seconds	Remaining training time: 20757.74 seconds
+Accuracy: 0.5559
+
+Epoch 45/133
+Training time for epoch 45: 233.53 seconds	Remaining training time: 20550.98 seconds
+Accuracy: 0.7163
+
+Epoch 46/133
+Training time for epoch 46: 233.83 seconds	Remaining training time: 20343.61 seconds
+Accuracy: 0.6694
+
+Epoch 47/133
+Training time for epoch 47: 234.14 seconds	Remaining training time: 20135.64 seconds
+Accuracy: 0.7874
+
+Epoch 48/133
+Training time for epoch 48: 234.44 seconds	Remaining training time: 19927.07 seconds
+Accuracy: 0.8164
+
+Epoch 49/133
+Training time for epoch 49: 234.74 seconds	Remaining training time: 19717.89 seconds
+Accuracy: 0.7598
+
+Epoch 50/133
+Training time for epoch 50: 235.04 seconds	Remaining training time: 19508.12 seconds
+Accuracy: 0.6911
+Saving model...
+
+Epoch 51/133
+Training time for epoch 51: 235.34 seconds	Remaining training time: 19297.74 seconds
+Accuracy: 0.6768
+
+Epoch 52/133
+Training time for epoch 52: 235.64 seconds	Remaining training time: 19086.77 seconds
+Accuracy: 0.8343
+
+Epoch 53/133
+Training time for epoch 53: 235.94 seconds	Remaining training time: 18875.19 seconds
+Accuracy: 0.8771
+
+Epoch 54/133
+Training time for epoch 54: 236.24 seconds	Remaining training time: 18663.01 seconds
+Accuracy: 0.6037
+
+Epoch 55/133
+Training time for epoch 55: 236.54 seconds	Remaining training time: 18450.23 seconds
+Accuracy: 0.5866
+
+Epoch 56/133
+Training time for epoch 56: 236.84 seconds	Remaining training time: 18236.84 seconds
+Accuracy: 0.8949
+
+Epoch 57/133
+Training time for epoch 57: 237.14 seconds	Remaining training time: 18022.86 seconds
+Accuracy: 0.6516
+
+Epoch 58/133
+Training time for epoch 58: 237.44 seconds	Remaining training time: 17808.27 seconds
+Accuracy: 0.5654
+
+Epoch 59/133
+Training time for epoch 59: 237.74 seconds	Remaining training time: 17593.08 seconds
+Accuracy: 0.9008
+
+Epoch 60/133
+Training time for epoch 60: 238.05 seconds	Remaining training time: 17377.29 seconds
+Accuracy: 0.9307
+Saving model...
+
+Epoch 61/133
+Training time for epoch 61: 238.35 seconds	Remaining training time: 17160.90 seconds
+Accuracy: 0.813
+
+Epoch 62/133
+Training time for epoch 62: 238.65 seconds	Remaining training time: 16943.91 seconds
+Accuracy: 0.8579
+
+Epoch 63/133
+Training time for epoch 63: 238.95 seconds	Remaining training time: 16726.32 seconds
+Accuracy: 0.6911
+
+Epoch 64/133
+Training time for epoch 64: 239.25 seconds	Remaining training time: 16508.12 seconds
+Accuracy: 0.5236
+
+Epoch 65/133
+Training time for epoch 65: 239.55 seconds	Remaining training time: 16289.32 seconds
+Accuracy: 0.5464
+
+Epoch 66/133
+Training time for epoch 66: 239.85 seconds	Remaining training time: 16069.92 seconds
+Accuracy: 0.9887
+
+Epoch 67/133
+Training time for epoch 67: 240.15 seconds	Remaining training time: 15849.92 seconds
+Accuracy: 0.9432
+
+Epoch 68/133
+Training time for epoch 68: 240.45 seconds	Remaining training time: 15629.32 seconds
+Accuracy: 0.8685
+
+Epoch 69/133
+Training time for epoch 69: 240.75 seconds	Remaining training time: 15408.12 seconds
+Accuracy: 0.6443
+
+Epoch 70/133
+Training time for epoch 70: 241.05 seconds	Remaining training time: 15186.32 seconds
+Accuracy: 0.5218
+Saving model...
+
+Epoch 71/133
+Training time for epoch 71: 241.35 seconds	Remaining training time: 14963.91 seconds
+Accuracy: 0.6767
+
+Epoch 72/133
+Training time for epoch 72: 241.65 seconds	Remaining training time: 14740.90 seconds
+Accuracy: 0.6908
+
+Epoch 73/133
+Training time for epoch 73: 241.95 seconds	Remaining training time: 14517.29 seconds
+Accuracy: 0.831
+
+Epoch 74/133
+Training time for epoch 74: 242.26 seconds	Remaining training time: 14293.08 seconds
+Accuracy: 0.8309
+
+Epoch 75/133
+Training time for epoch 75: 242.56 seconds	Remaining training time: 14068.27 seconds
+Accuracy: 0.6327
+
+Epoch 76/133
+Training time for epoch 76: 242.86 seconds	Remaining training time: 13842.86 seconds
+Accuracy: 0.5533
+
+Epoch 77/133
+Training time for epoch 77: 243.16 seconds	Remaining training time: 13616.84 seconds
+Accuracy: 0.7208
+
+Epoch 78/133
+Training time for epoch 78: 243.46 seconds	Remaining training time: 13390.23 seconds
+Accuracy: 0.8886
+
+Epoch 79/133
+Training time for epoch 79: 243.76 seconds	Remaining training time: 13163.01 seconds
+Accuracy: 0.7942
+
+Epoch 80/133
+Training time for epoch 80: 244.06 seconds	Remaining training time: 12935.19 seconds
+Accuracy: 0.7203
+Saving model...
+
+Epoch 81/133
+Training time for epoch 81: 244.36 seconds	Remaining training time: 12706.77 seconds
+Accuracy: 0.5509
+
+Epoch 82/133
+Training time for epoch 82: 244.66 seconds	Remaining training time: 12477.74 seconds
+Accuracy: 0.7153
+
+Epoch 83/133
+Training time for epoch 83: 244.96 seconds	Remaining training time: 12248.12 seconds
+Accuracy: 0.9918
+
+Epoch 84/133
+Training time for epoch 84: 245.26 seconds	Remaining training time: 12017.89 seconds
+Accuracy: 0.847
+
+Epoch 85/133
+Training time for epoch 85: 245.56 seconds	Remaining training time: 11787.07 seconds
+Accuracy: 0.7937
+
+Epoch 86/133
+Training time for epoch 86: 245.86 seconds	Remaining training time: 11555.64 seconds
+Accuracy: 0.9024
+
+Epoch 87/133
+Training time for epoch 87: 246.17 seconds	Remaining training time: 11323.61 seconds
+Accuracy: 0.6553
+
+Epoch 88/133
+Training time for epoch 88: 246.47 seconds	Remaining training time: 11090.98 seconds
+Accuracy: 0.7758
+
+Epoch 89/133
+Training time for epoch 89: 246.77 seconds	Remaining training time: 10857.74 seconds
+Accuracy: 0.5653
+
+Epoch 90/133
+Training time for epoch 90: 247.07 seconds	Remaining training time: 10623.91 seconds
+Accuracy: 0.9818
+Saving model...
+
+Epoch 91/133
+Training time for epoch 91: 247.37 seconds	Remaining training time: 10389.47 seconds
+Accuracy: 0.7401
+
+Epoch 92/133
+Training time for epoch 92: 247.67 seconds	Remaining training time: 10154.44 seconds
+Accuracy: 0.8482
+
+Epoch 93/133
+Training time for epoch 93: 247.97 seconds	Remaining training time: 9918.80 seconds
+Accuracy: 0.9596
+
+Epoch 94/133
+Training time for epoch 94: 248.27 seconds	Remaining training time: 9682.56 seconds
+Accuracy: 0.8699
+
+Epoch 95/133
+Training time for epoch 95: 248.57 seconds	Remaining training time: 9445.71 seconds
+Accuracy: 0.6831
+
+Epoch 96/133
+Training time for epoch 96: 248.87 seconds	Remaining training time: 9208.27 seconds
+Accuracy: 0.6534
+
+Epoch 97/133
+Training time for epoch 97: 249.17 seconds	Remaining training time: 8970.23 seconds
+Accuracy: 0.8809
+
+Epoch 98/133
+Training time for epoch 98: 249.47 seconds	Remaining training time: 8731.58 seconds
+Accuracy: 0.8891
+
+Epoch 99/133
+Training time for epoch 99: 249.77 seconds	Remaining training time: 8492.33 seconds
+Accuracy: 0.529
+
+Epoch 100/133
+Training time for epoch 100: 250.08 seconds	Remaining training time: 8252.48 seconds
+Accuracy: 0.9921
+Saving model...
+
+Epoch 101/133
+Training time for epoch 101: 250.38 seconds	Remaining training time: 8012.03 seconds
+Accuracy: 0.5292
+
+Epoch 102/133
+Training time for epoch 102: 250.68 seconds	Remaining training time: 7770.98 seconds
+Accuracy: 0.7721
+
+Epoch 103/133
+Training time for epoch 103: 250.98 seconds	Remaining training time: 7529.32 seconds
+Accuracy: 0.9908
+
+Epoch 104/133
+Training time for epoch 104: 251.28 seconds	Remaining training time: 7287.07 seconds
+Accuracy: 0.5653
+
+Epoch 105/133
+Training time for epoch 105: 251.58 seconds	Remaining training time: 7044.21 seconds
+Accuracy: 0.5891
+
+Epoch 106/133
+Training time for epoch 106: 251.88 seconds	Remaining training time: 6800.75 seconds
+Accuracy: 0.8747
+
+Epoch 107/133
+Training time for epoch 107: 252.18 seconds	Remaining training time: 6556.69 seconds
+Accuracy: 0.9145
+
+Epoch 108/133
+Training time for epoch 108: 252.48 seconds	Remaining training time: 6312.03 seconds
+Accuracy: 0.7267
+
+Epoch 109/133
+Training time for epoch 109: 252.78 seconds	Remaining training time: 6066.77 seconds
+Accuracy: 0.9862
+
+Epoch 110/133
+Training time for epoch 110: 253.08 seconds	Remaining training time: 5820.90 seconds
+Accuracy: 0.5947
+Saving model...
+
+Epoch 111/133
+Training time for epoch 111: 253.38 seconds	Remaining training time: 5574.44 seconds
+Accuracy: 0.5874
+
+Epoch 112/133
+Training time for epoch 112: 253.68 seconds	Remaining training time: 5327.37 seconds
+Accuracy: 0.7301
+
+Epoch 113/133
+Training time for epoch 113: 253.98 seconds	Remaining training time: 5079.70 seconds
+Accuracy: 0.5108
+
+Epoch 114/133
+Training time for epoch 114: 254.29 seconds	Remaining training time: 4831.43 seconds
+Accuracy: 0.7684
+
+Epoch 115/133
+Training time for epoch 115: 254.59 seconds	Remaining training time: 4582.56 seconds
+Accuracy: 0.7252
+
+Epoch 116/133
+Training time for epoch 116: 254.89 seconds	Remaining training time: 4333.08 seconds
+Accuracy: 0.6324
+
+Epoch 117/133
+Training time for epoch 117: 255.19 seconds	Remaining training time: 4083.01 seconds
+Accuracy: 0.9584
+
+Epoch 118/133
+Training time for epoch 118: 255.49 seconds	Remaining training time: 3832.33 seconds
+Accuracy: 0.9569
+
+Epoch 119/133
+Training time for epoch 119: 255.79 seconds	Remaining training time: 3581.05 seconds
+Accuracy: 0.6696
+
+Epoch 120/133
+Training time for epoch 120: 256.09 seconds	Remaining training time: 3329.17 seconds
+Accuracy: 0.6996
+Saving model...
+
+Epoch 121/133
+Training time for epoch 121: 256.39 seconds	Remaining training time: 3076.69 seconds
+Accuracy: 0.8716
+
+Epoch 122/133
+Training time for epoch 122: 256.69 seconds	Remaining training time: 2823.61 seconds
+Accuracy: 0.751
+
+Epoch 123/133
+Training time for epoch 123: 256.99 seconds	Remaining training time: 2569.92 seconds
+Accuracy: 0.6377
+
+Epoch 124/133
+Training time for epoch 124: 257.29 seconds	Remaining training time: 2315.64 seconds
+Accuracy: 0.8319
+
+Epoch 125/133
+Training time for epoch 125: 257.59 seconds	Remaining training time: 2060.75 seconds
+Accuracy: 0.9383
+
+Epoch 126/133
+Training time for epoch 126: 257.89 seconds	Remaining training time: 1805.26 seconds
+Accuracy: 0.6668
+
+Epoch 127/133
+Training time for epoch 127: 258.20 seconds	Remaining training time: 1549.17 seconds
+Accuracy: 0.741
+
+Epoch 128/133
+Training time for epoch 128: 258.50 seconds	Remaining training time: 1292.48 seconds
+Accuracy: 0.5373
+
+Epoch 129/133
+Training time for epoch 129: 258.80 seconds	Remaining training time: 1035.19 seconds
+Accuracy: 0.9796
+
+Epoch 130/133
+Training time for epoch 130: 259.10 seconds	Remaining training time: 777.29 seconds
+Accuracy: 0.6181
+Saving model...
+
+Epoch 131/133
+Training time for epoch 131: 259.40 seconds	Remaining training time: 518.80 seconds
+Accuracy: 0.6266
+
+Epoch 132/133
+Training time for epoch 132: 259.70 seconds	Remaining training time: 259.70 seconds
+Accuracy: 0.5502
+
+Epoch 133/133
+Training time for epoch 133: 260.00 seconds	Remaining training time: 0.00 seconds
+Accuracy: 0.9477
+
